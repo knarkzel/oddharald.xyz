@@ -1,5 +1,14 @@
 body {
-  max-width: 38rem;
-  padding: 2rem;
   margin: auto;
+  padding: 1rem;
+  max-width: 50rem;
+  font-family: sans-serif;
 }
+
+/* code */
+code { white-space: pre; }
+pre { white-space: normal; }
+
+/* tables */
+td { padding-right: 1rem; }
+tr:first-child { font-weight: bold; }
